@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Employee Management System">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$PROJECT_DIR$/../../../../jar file/mysql-connector-java-8.0.28 (2).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
